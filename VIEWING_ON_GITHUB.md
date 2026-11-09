@@ -86,7 +86,7 @@ Replace `YOUR_USERNAME` with your actual GitHub username!
 
 Example:
 ```powershell
-git remote add origin https://github.com/john_doe/challenges-project.git
+git remote add origin https://github.com/MrWahidR/challenges-project.git
 ```
 
 Press Enter. No output means success! ✓
@@ -146,7 +146,7 @@ If you see an error about authentication:
 
 In your browser, go to:
 ```
-https://github.com/YOUR_USERNAME/challenges-project
+https://github.com/MrWahidR/challenges-project
 ```
 
 Replace YOUR_USERNAME with your actual username.
@@ -175,7 +175,7 @@ Click **Save**
 You'll see a message:
 ```
 Your site is live at: 
-https://YOUR_USERNAME.github.io/challenges-project
+https://MrWahidR.github.io/challenges-project
 ```
 
 **This is your live URL!** Save it!
@@ -190,7 +190,7 @@ https://YOUR_USERNAME.github.io/challenges-project
 
 Open your live URL in a browser:
 ```
-https://YOUR_USERNAME.github.io/challenges-project
+https://MrWahidR.github.io/challenges-project
 ```
 
 You should see:
@@ -207,7 +207,7 @@ Click on any challenge card, answer a question, and verify it works!
 
 Your live project URL:
 ```
-https://YOUR_USERNAME.github.io/challenges-project
+https://MrWahidR.github.io/challenges-project
 ```
 
 Share it with:
@@ -258,8 +258,8 @@ Your live site updates automatically in 1-2 minutes! ✨
 
 | Purpose | URL |
 |---------|-----|
-| **View Project Live** | `https://YOUR_USERNAME.github.io/challenges-project` |
-| **GitHub Repository** | `https://github.com/YOUR_USERNAME/challenges-project` |
+| **View Project Live** | `https://MrWahidR.github.io/challenges-project` |
+| **GitHub Repository** | `https://github.com/MrWahidR/challenges-project` |
 | **Edit Files** | Same as above, click file names |
 | **GitHub Settings** | Same as above, click Settings tab |
 | **Enable GitHub Pages** | Same as above, Settings → Pages |

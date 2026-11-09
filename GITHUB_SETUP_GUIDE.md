@@ -37,7 +37,7 @@ Before you start, make sure you have:
 4. **Copy the repository URL**
    - After creation, you'll see the empty repository page
    - Click the green **"Code"** button
-   - Copy the **HTTPS URL** (e.g., `https://github.com/yourusername/challenges-project.git`)
+   - Copy the **HTTPS URL** (e.g., `https://github.com/MrWahidR/challenges-project.git`)
 
 ---
 
@@ -52,7 +52,7 @@ cd "C:\Users\wrauf\OneDrive - Greenhead College\python files\challenges-project"
 Add the GitHub repository as a remote (replace `YOUR_URL` with the URL you copied):
 
 ```powershell
-git remote add origin https://github.com/yourusername/challenges-project.git
+git remote add origin https://github.com/MrWahidR/challenges-project.git
 ```
 
 Verify the remote was added:
@@ -100,7 +100,7 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 1. Go to your GitHub repository URL:
    ```
-   https://github.com/yourusername/challenges-project
+   https://github.com/MrWahidR/challenges-project
    ```
 
 2. You should see:
@@ -128,7 +128,7 @@ Make it accessible as a live website:
 6. Wait 1-2 minutes for GitHub to build your site
 7. You'll see a green message with your live URL:
    ```
-   Your site is live at: https://yourusername.github.io/challenges-project
+   Your site is live at: https://MrWahidR.github.io/challenges-project
    ```
 
 **Share this URL to let anyone play your challenges!**

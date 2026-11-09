@@ -211,8 +211,8 @@ git log --oneline
 
 ### Key URLs
 ```
-Your GitHub repo:  https://github.com/YOUR_USERNAME/challenges-project
-Your Live Site:    https://YOUR_USERNAME.github.io/challenges-project
+Your GitHub repo:  https://github.com/MrWahidR/challenges-project
+Your Live Site:    https://MrWahidR.github.io/challenges-project
 Create Repo:       https://github.com/new
 GitHub Pages Docs: https://pages.github.com
 ```

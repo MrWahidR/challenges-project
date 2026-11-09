@@ -36,7 +36,7 @@ git push -u origin main
 ### 4️⃣ DONE! ACCESS YOUR SITE 🎉
 ```
 YOUR LIVE URL:
-https://YOUR_USERNAME.github.io/challenges-project
+https://MrWahidR.github.io/challenges-project
 ```
 
 ---
@@ -94,8 +94,8 @@ git log --oneline
 
 ## Share Your Project:
 
-**Live URL:** `https://YOUR_USERNAME.github.io/challenges-project`
-**GitHub:** `https://github.com/YOUR_USERNAME/challenges-project`
+**Live URL:** `https://MrWahidR.github.io/challenges-project`
+**GitHub:** `https://github.com/MrWahidR/challenges-project`
 
 ---
 

@@ -421,7 +421,7 @@ TOTAL PROJECT: ~76 KB 🎁 Small & Efficient!
 
 When you push to GitHub, all these files will be visible at:
 ```
-https://github.com/YOUR_USERNAME/challenges-project
+https://github.com/MrWahidR/challenges-project
 ```
 
 File tree shown:

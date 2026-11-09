@@ -96,7 +96,7 @@ Your **Challenge Quest** project is fully built and ready for GitHub. Here's wha
 ```powershell
 cd "C:\Users\wrauf\OneDrive - Greenhead College\python files\challenges-project"
 
-git remote add origin [YOUR_GITHUB_URL]
+git remote add origin https://github.com/MrWahidR/challenges-project.git
 git branch -M main
 git push -u origin main
 ```
@@ -109,7 +109,7 @@ git push -u origin main
 → Save and wait 1-2 minutes
 ```
 
-**YOUR LIVE URL:** `https://YOUR_USERNAME.github.io/challenges-project`
+**YOUR LIVE URL:** `https://MrWahidR.github.io/challenges-project`
 
 ---
 
@@ -295,7 +295,7 @@ Once live on GitHub Pages:
 
 **Share This URL:**
 ```
-https://YOUR_USERNAME.github.io/challenges-project
+https://MrWahidR.github.io/challenges-project
 ```
 
 **Perfect for:**
