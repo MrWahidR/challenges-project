@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Challenge Quest - Brain Teasers & Puzzles</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🎯 Challenge Quest</h1>
+            <p>Test your skills with fun puzzles and brain teasers!</p>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="nav">
+            <button class="nav-btn active" data-category="all">All Challenges</button>
+            <button class="nav-btn" data-category="logic">Logic</button>
+            <button class="nav-btn" data-category="math">Math</button>
+            <button class="nav-btn" data-category="word">Word</button>
+            <button class="nav-btn" data-category="riddle">Riddles</button>
+        </nav>
+
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat-item">
+                <span class="stat-label">Completed:</span>
+                <span class="stat-value" id="completedCount">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Score:</span>
+                <span class="stat-value" id="scoreCount">0</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-label">Streak:</span>
+                <span class="stat-value" id="streakCount">0</span>
+            </div>
+        </div>
+
+        <!-- Challenges Grid -->
+        <div class="challenges-grid" id="challengesContainer">
+            <!-- Challenges will be loaded here -->
+        </div>
+
+        <!-- Challenge Modal -->
+        <div class="modal" id="challengeModal">
+            <div class="modal-content">
+                <button class="close-btn" id="closeBtn">&times;</button>
+                <h2 id="modalTitle"></h2>
+                <p id="modalCategory" class="category-badge"></p>
+                <p id="modalChallenge" class="challenge-text"></p>
+                
+                <div id="challengeOptions" class="challenge-options">
+                    <!-- Options will be inserted here -->
+                </div>
+
+                <div id="feedbackContainer" class="feedback" style="display: none;">
+                    <p id="feedbackText"></p>
+                    <p id="explanation" class="explanation"></p>
+                </div>
+
+                <button class="btn-secondary" id="skipBtn">Skip</button>
+                <button class="btn-primary" id="submitBtn">Submit Answer</button>
+            </div>
+        </div>
+
+        <!-- Completion Message -->
+        <div class="completion-modal" id="completionModal">
+            <div class="completion-content">
+                <h2 id="completionTitle">🎉 Challenge Complete!</h2>
+                <p id="completionMessage"></p>
+                <button class="btn-primary" id="nextBtn">Next Challenge</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
